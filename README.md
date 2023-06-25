@@ -1,4 +1,4 @@
-# fsd
+Developing a Social Media App using React js
 
 
 # Getting Started with Create React App
